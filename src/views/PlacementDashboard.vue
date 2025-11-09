@@ -49,7 +49,7 @@ onMounted(() => {
       <!-- Header -->
       <header class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div class="flex items-center gap-3">
-          <!-- <img src="@/assets/logo.svg" alt="Company Logo" class="h-8" /> -->
+          <img src="@/assets/logo.png" alt="TechKareer" class="h-8" />
           <h1 class="text-3xl font-semibold text-azul-500">Placements Overview</h1>
         </div>
         
